@@ -1,17 +1,15 @@
-<h1 align=center>😈EVIL BOT😈</h1>
-<img src = "https://telegra.ph/file/2345311d29a66213a9d98.jpg">
+<h1 align=center>Siurt</h1>
+<img src = "https://telegra.ph/file/8d7257ca410952a08b65e.jpg">
 
 ## You can also tap the Deploy To Heroku button below to deploy straight to Heroku!
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/shrvan42/EvilBot)</p>
 <H2 align=center>___________</h2>
 
 ## Starting the bot.
 
 Once you've setup your database and your configuration (see below) is complete, simply run:
 
-`python3 -m EvilBot`
-
+`python3 -m Siurt
 
 ### Configuration
 
@@ -26,7 +24,6 @@ The following env variables are supported:
 
 ## Session String
 
-* [![Run on Repl.it](https://replit.com/badge/github/TeamUltroid/Ultroid)](http://generatestringsession.sandeep1709.repl.run/)
 
 ## Variables
 
